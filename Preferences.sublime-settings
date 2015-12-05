@@ -1,0 +1,50 @@
+{
+///THEME
+"theme": "Material-Theme.sublime-theme",
+"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+"material_theme_small_tab": true,                           // Set small tabs
+"material_theme_disable_fileicons": true,                   // Hide siderbar file type icons
+"material_theme_disable_folder_animation": true,            // Disable folder animation
+"material_theme_small_statusbar": true,                     // Set small status bar
+"material_theme_disable_tree_indicator": true,              // Disable sidebar file indicator
+"material_theme_bold_tab": true,                            // Make the tab labels bolder
+"material_theme_tabs_separator": true,                      // Show tabs separator
+"material_theme_accent_lime": true,                         // set green lime accent color
+"material_theme_accent_purple": true,                       // set purple accent color
+"material_theme_accent_red": true,                          // set pale red accent color
+"material_theme_accent_orange": true,                       // set orange accent color
+"material_theme_accent_yellow": true,                       // set yellow accent color
+"material_theme_panel_separator": true,                     // show bottom panel separator
+"material_theme_tabs_autowidth": true,                      // Enable autowidth for tabs
+"material_theme_contrast_mode": true,                       // Enable sidebar and panels contrast mode
+
+///FONT
+"font_size": 12,
+"font_face": "Roboto Mono",
+//"font_options": [ "gray_antialias" ],                     // Retina
+
+///UI
+"bold_folder_labels": true,
+"overlay_scroll_bars": "enabled",
+"line_padding_top": 1,
+"line_padding_bottom": 1,
+"caret_extra_bottom": 2,
+"caret_extra_top": 2,
+"caret_extra_width": 2,
+
+///SYSTEM
+"highlight_line": true,
+"highlight_modified_tabs": true,
+"match_brackets": true,
+"match_brackets_angle": true,
+"match_brackets_braces": true,
+"match_brackets_content": true,
+"match_brackets_square": true,
+"tab_size": 2,
+"translate_tabs_to_spaces": true,
+"trim_trailing_white_space_on_save": true,
+"word_wrap": true,
+"indent_guide_options": [ "draw_normal", "draw_active" ] ,   // Highlight active indent
+"added_words":[ "enablement"],
+"ignored_packages":[ "Vintage", "Markdown"]
+}
